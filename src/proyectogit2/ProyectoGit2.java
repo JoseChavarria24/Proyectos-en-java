@@ -15,6 +15,7 @@ public class ProyectoGit2 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        System.out.println("Mi equipo es, Juan Omar Ruiz Pizarro, Jose Armando Alvidrez Renteria, Alejandro Burciaga Calzadillas y yo Jose Santos Chavarria Valdez.");
     }
     
 }
